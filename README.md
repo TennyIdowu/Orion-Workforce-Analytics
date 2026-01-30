@@ -1,6 +1,7 @@
 # Strategic Workforce Analytics: Orion Data Systems
 ### Relational Database Architecture & Human Capital Insights
 
+![dashboard](Hook_Image.png)
 ## Project Overview & Business Value
 Orion Data Systems, a multinational tech firm, required a deep-dive analysis of their global workforce. As a Junior Data Analyst, I transitioned their raw database into a strategic roadmap to optimize payroll, identify recruitment gaps, and benchmark international operational costs.
  - Objective: Solve critical HR questions regarding salary equity and departmental staffing.
@@ -20,6 +21,8 @@ Orion Data Systems, a multinational tech firm, required a deep-dive analysis of 
   ### Compensation & Equity
  - Salary Distribution: The majority of the workforce sits in the Medium Band ($5k - $10k), providing a stable middle-management core.
  - Regional Costs: Mapped total salary expenditure by country, highlighting that [Region X] holds the highest operational overhead.
+
+ ![dataset](Orion_Dataset.png)
 
 ## Proposed Growth Initiatives (Recommendations)
  - Targeted Hiring: Immediate activation of recruitment for the identified "Workforce Gaps."
